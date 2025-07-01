@@ -1,6 +1,6 @@
 # AZ-204: Developing solutions for Microsoft Azure
 
-> **Note**: Students should be directed to sync the repository if they aren't being provided the AllFiles through the lab hosting provider. 
+> **Note**: Students should be directed to sync the repository if they aren't being provided the AllFiles through the lab hosting provider.
 
 - **Direct students** to [https://aka.ms/az204labs](https://aka.ms/az204labs) for an easy-to-use list of lab instructions.
 - **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
